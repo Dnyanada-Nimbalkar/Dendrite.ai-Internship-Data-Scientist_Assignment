@@ -1,0 +1,3 @@
+Model: RandomForestRegressor
+Best Parameters: {'min_samples_leaf': 1, 'min_samples_split': 8, 'n_estimators': 14}
+Mean Squared Error: 0.013671129221632328
