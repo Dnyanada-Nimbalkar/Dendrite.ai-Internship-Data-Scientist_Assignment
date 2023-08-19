@@ -1,1 +1,1 @@
-# Dendrite.ai-Internship-Data-Scientist_Assignment
+# Assignment for Data-Scientist Internship at Dendrite.ai
